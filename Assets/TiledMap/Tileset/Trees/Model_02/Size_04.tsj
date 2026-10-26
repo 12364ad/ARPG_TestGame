@@ -1,0 +1,14 @@
+{ "columns":12,
+ "image":"Size_04.png",
+ "imageheight":224,
+ "imagewidth":192,
+ "margin":0,
+ "name":"Size_04",
+ "spacing":0,
+ "tilecount":168,
+ "tiledversion":"1.12.2",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.10"
+}

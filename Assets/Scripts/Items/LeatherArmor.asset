@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3aeb1fae3dfbcd145b1edd29c602a99a, type: 3}
+  m_Name: LeatherArmor
+  m_EditorClassIdentifier: 
+  id: LeatherArmor
+  displayName: "\u76AE\u9769\u80F8\u7532"
+  description: "\u8F7B\u4FBF\u8010\u7528\u7684\u76AE\u7532"
+  icon: {fileID: -614424161, guid: 94b981b4573187643861d535f02ac6e3, type: 3}
+  propPrefab: {fileID: 7395698836159337134, guid: 5e43ce591f13428cad34802fd2ef855b, type: 3}
+  type: 1
+  buyPrice: 15
+  sellPrice: 6
+  dismantlePrice: 3
+  canStack: 0
+  maxStackAmount: 0
+  statsOfItem:
+  - type: 5
+    value: 6
+  raity: 0

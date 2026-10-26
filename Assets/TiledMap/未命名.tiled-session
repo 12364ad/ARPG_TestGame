@@ -1,0 +1,239 @@
+{
+    "activeFile": "map/Dungeon.tmx",
+    "expandedProjectPaths": [
+        "Tileset/Trees/Model_02",
+        "map",
+        "Tileset/Furniture",
+        "Tileset",
+        "Tileset/Esoteric",
+        "Tileset/Shadows",
+        "Tileset/Trees/Model_03",
+        "Tileset/Dungeon",
+        "Tileset/Rocks",
+        "Tileset/Trees/Model_01",
+        ".",
+        "Tileset/Trees",
+        "Tileset/Vegetation"
+    ],
+    "file.lastUsedOpenFilter": "全部文件 (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "C:/Users/5mr/Desktop/unitydemo/ARPG_Graduation project/Assets/Sprites/Scens/Forest.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1326,
+                "y": 354
+            }
+        },
+        "C:/Users/5mr/Desktop/unitydemo/ARPG_Graduation project/Assets/Sprites/Scens/Forest.tmx#Vegetation": {
+            "scaleInDock": 1
+        },
+        "Tileset/Dungeon/Dungeon_Props.tsj": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "Tileset/Dungeon/Dungeon_Tiles.tsj": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "Tileset/Esoteric/Esoteric.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Floors_Tiles.tsj": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 3
+        },
+        "Tileset/Furniture/Furniture.tsj": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "Tileset/Interior_Props_01.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Rocks/Rocks.tsj": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "Tileset/Shadows/Shadows.tsj": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "Tileset/Tilesets/Dungeon_Tiles.tsj": {
+            "scaleInDock": 2
+        },
+        "Tileset/Trees/Model_01/Size_02.tsj": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "Tileset/Trees/Model_01/Size_03.tsj": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "Tileset/Trees/Model_01/Size_04.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Trees/Model_01/Size_05.tsj": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Trees/Model_02/Size_02.tsj": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "Tileset/Trees/Model_02/Size_03.tsj": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "Tileset/Trees/Model_02/Size_04.tsj": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "Tileset/Trees/Model_02/Size_05.tsj": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "Tileset/Trees/Model_03/Size_02.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Trees/Model_03/Size_03.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Trees/Model_03/Size_04.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Trees/Model_03/Size_05.tsj": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Vegetation.tsj": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.75
+        },
+        "Tileset/Vegetation/Vegetation.tsj": {
+            "dynamicWrapping": false,
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "Tileset/Wall_Tiles.tsj": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Wall_Variations.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset/Water_tiles.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map/Dungeon.tmx": {
+            "scale": 1,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 736,
+                "y": 754
+            }
+        },
+        "map/Dungeon_Cross.tmj": {
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 327.66666666666663,
+                "y": 323.3333333333333
+            }
+        },
+        "map/Dungeon_Room.tmj": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 217.66666666666666,
+                "y": 235.66666666666663
+            }
+        },
+        "map/Forest.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1326,
+                "y": 354
+            }
+        },
+        "map/Forest.tmx#Vegetation": {
+            "scaleInDock": 1
+        },
+        "map/Snowfield.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 958,
+                "y": 664
+            }
+        },
+        "map/Wall_Tiles.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/5mr/Desktop/unitydemo/ARPG_Graduation project/Assets/Scenes",
+    "last.imagePath": "C:/Users/5mr/Desktop/TiledMap/Tileset/Trees/Model_01",
+    "map.height": 100,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 100,
+    "openFiles": [
+        "C:/Users/5mr/Desktop/unitydemo/ARPG_Graduation project/Assets/Sprites/Scens/Forest.tmx",
+        "Tileset/Trees/Model_02/Size_04.tsj",
+        "Tileset/Vegetation/Vegetation.tsj",
+        "Tileset/Trees/Model_02/Size_05.tsj",
+        "Tileset/Trees/Model_03/Size_02.tsj",
+        "Tileset/Trees/Model_03/Size_03.tsj",
+        "Tileset/Trees/Model_03/Size_04.tsj",
+        "Tileset/Trees/Model_03/Size_05.tsj",
+        "map/Dungeon_Room.tmj",
+        "Tileset/Dungeon/Dungeon_Tiles.tsj",
+        "map/Dungeon_Cross.tmj",
+        "map/Dungeon.tmx",
+        "Tileset/Trees/Model_01/Size_02.tsj",
+        "Tileset/Trees/Model_02/Size_02.tsj",
+        "Tileset/Trees/Model_02/Size_03.tsj",
+        "Tileset/Trees/Model_01/Size_05.tsj",
+        "Tileset/Trees/Model_01/Size_04.tsj",
+        "map/Snowfield.tmx",
+        "Tileset/Floors_Tiles.tsj",
+        "map/Forest.tmx"
+    ],
+    "project": "未命名.tiled-project",
+    "recentFiles": [
+        "C:/Users/5mr/Desktop/unitydemo/ARPG_Graduation project/Assets/Sprites/Scens/Forest.tmx",
+        "Tileset/Trees/Model_02/Size_04.tsj",
+        "Tileset/Vegetation/Vegetation.tsj",
+        "Tileset/Trees/Model_02/Size_05.tsj",
+        "Tileset/Trees/Model_03/Size_02.tsj",
+        "Tileset/Trees/Model_03/Size_03.tsj",
+        "Tileset/Trees/Model_03/Size_04.tsj",
+        "Tileset/Trees/Model_03/Size_05.tsj",
+        "map/Dungeon_Room.tmj",
+        "Tileset/Dungeon/Dungeon_Tiles.tsj",
+        "map/Dungeon_Cross.tmj",
+        "map/Forest.tmx"
+    ],
+    "tileset.lastUsedFormat": "json",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

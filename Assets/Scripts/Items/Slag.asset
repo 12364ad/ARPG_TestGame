@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3aeb1fae3dfbcd145b1edd29c602a99a, type: 3}
+  m_Name: Slag
+  m_EditorClassIdentifier: 
+  id: Slag
+  displayName: "\u77FF\u6E23"
+  description: "\u91CD\u7532\u9A91\u58EB\u8EAB\u4E0A\u968F\u673A\u6389\u843D\u7684\u77FF\u77F3\u6B8B\u6E23\uFF0C\u5C60\u592B\u7528\u6765\u505A\u78E8\u5200\u77F3\u3002"
+  icon: {fileID: 890095557, guid: 57e6ba2298fe28f409b441435fd10021, type: 3}
+  propPrefab: {fileID: 7395698836159337134, guid: b6d4f8a12e3c5719c8f4d6b2e3a5c389, type: 3}
+  type: 13
+  buyPrice: 0
+  sellPrice: 0
+  dismantlePrice: 0
+  canStack: 1
+  maxStackAmount: 9
+  statsOfItem: []
+  raity: 0

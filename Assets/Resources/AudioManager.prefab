@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &668869352
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 668869354}
+  - component: {fileID: 668869353}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &668869353
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 668869352}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 921edc1e17c3490428154b4968b2770a, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  bgmVolume: 0.7
+  sfxVolume: 1
+  menuSceneName: Menu
+  menuBGM: {fileID: 8300000, guid: 680dd0b277106d64fab455892bace79c, type: 3}
+  gameBGM: {fileID: 8300000, guid: f26db265af34dcb4b874f29b48fa6b30, type: 3}
+  sfxSlash: {fileID: 8300000, guid: 031bbd70d478a9f4ab9faea688d6c6b7, type: 3}
+  sfxImpact: {fileID: 8300000, guid: 5d38472d31d9d1543afc8d49dbd1335e, type: 3}
+  sfxEnemyDeath: {fileID: 8300000, guid: 5fb7e93785741f540beec88f5ac6d570, type: 3}
+  sfxPlayerHurt: {fileID: 8300000, guid: 5c313d0a23aa29840be63f9400a7f4d2, type: 3}
+  sfxPlayerHeal: {fileID: 8300000, guid: b27bf5f8cc8357c4aa50a0bae29f24b2, type: 3}
+  sfxButtonMenu: {fileID: 8300000, guid: 4e36367dfc301e6409e6fb000182006a, type: 3}
+  sfxButtonGame: {fileID: 8300000, guid: 3d032cf7ac0896a4db728aa11b06ec44, type: 3}
+  sfxEquip: {fileID: 8300000, guid: 6e21444db74a86a42a0017081f831fac, type: 3}
+  sfxUnequip: {fileID: 8300000, guid: 9462c67c1f7625644abfcda3bd4acad0, type: 3}
+  sfxUseItem: {fileID: 8300000, guid: 850d3a3850430ee4991c89584c2e0c20, type: 3}
+  sfxHover: {fileID: 0}
+  sfxStartGame: {fileID: 8300000, guid: 610d46e5a7e34064b99c8f39e3736b82, type: 3}
+  sfxDialogueAdvance: {fileID: 8300000, guid: 1c3f1a8e50ca54148befa3e6c5bbee76, type: 3}
+  sfxSlotClick: {fileID: 8300000, guid: 9dd5cdfe9b0f55c429a7565fd7e68806, type: 3}
+--- !u!4 &668869354
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 668869352}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

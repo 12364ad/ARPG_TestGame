@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3aeb1fae3dfbcd145b1edd29c602a99a, type: 3}
+  m_Name: VineHeart
+  m_EditorClassIdentifier: 
+  id: VineHeart
+  displayName: "\u85E4\u8513\u4E4B\u5FC3"
+  description: "\u68EE\u6797\u85E4\u8513\u602A\u8EAB\u4E0A\u968F\u673A\u6389\u843D\u7684\u7ED3\u6676\uFF0C\u770B\u677F\u5A18\u7684\u79BB\u6751\u8BD5\u70BC\u51ED\u8BC1\u3002"
+  icon: {fileID: 1762918570, guid: 432f7516b796cae4abd3d3245cba31ac, type: 3}
+  propPrefab: {fileID: 7395698836159337134, guid: a5c3e7f91d2b4608b7e3c5a9d1f4b278, type: 3}
+  type: 13
+  buyPrice: 0
+  sellPrice: 0
+  dismantlePrice: 0
+  canStack: 1
+  maxStackAmount: 9
+  statsOfItem: []
+  raity: 0

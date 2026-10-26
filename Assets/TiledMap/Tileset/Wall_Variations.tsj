@@ -1,0 +1,14 @@
+{ "columns":16,
+ "image":"..\/..\/Tiles\/Wall\/Wall_Variations.png",
+ "imageheight":480,
+ "imagewidth":256,
+ "margin":0,
+ "name":"Wall_Variations",
+ "spacing":0,
+ "tilecount":480,
+ "tiledversion":"1.12.2",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.10"
+}

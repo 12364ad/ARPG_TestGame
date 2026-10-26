@@ -1,0 +1,14 @@
+{ "columns":38,
+ "image":"..\/..\/Tiles\/Interior_Props_01.png",
+ "imageheight":384,
+ "imagewidth":608,
+ "margin":0,
+ "name":"Interior_Props_01",
+ "spacing":0,
+ "tilecount":912,
+ "tiledversion":"1.12.2",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.10"
+}

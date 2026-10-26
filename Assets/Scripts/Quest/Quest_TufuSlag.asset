@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 646f003efbae02546ac43cb244da24ff, type: 3}
+  m_Name: Quest_TufuSlag
+  m_EditorClassIdentifier: 
+  questName: "\u5730\u7262\u7684\u77FF\u6E23"
+  questDescription: "\u8BA8\u4F10\u5730\u7262\u91CC\u6321\u8DEF\u7684\u91CD\u7532\u9A91\u58EB\uFF0C\u6361\u4E9B\u77FF\u6E23\u56DE\u6765\u4EA4\u7ED9\u5C60\u592B\u505A\u78E8\u5200\u77F3\u3002"
+  requiredItems:
+  - item: {fileID: 11400000, guid: 7f1b5d9a3c6e2840a5d8b2c6e9f31a74, type: 2}
+    amount: 1
+  rewards:
+  - item: {fileID: 11400000, guid: 8d9582e93166f3043ba809eaac68094e, type: 2}
+    amount: 20
+  - item: {fileID: 11400000, guid: 293a4b5c6d7e8f901234567890123456, type: 2}
+    amount: 1
+  - item: {fileID: 11400000, guid: d4e5f60718293a4b5c6d7e8f90123456, type: 2}
+    amount: 1

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3aeb1fae3dfbcd145b1edd29c602a99a, type: 3}
+  m_Name: Armor
+  m_EditorClassIdentifier: 
+  id: Armor
+  displayName: "\u76D4\u7532"
+  description: "\u4E16\u754C\u4E0A\u6700\u5F3A\u7684\u76D4\u7532"
+  icon: {fileID: 1436165390, guid: 94368c3963305734f96df6b9cc851a4e, type: 3}
+  dropPrefab: {fileID: 0}
+  type: 1
+  buyPrice: 20
+  sellPrice: 10
+  dismantlePrice: 5
+  canStack: 0
+  maxStackAmount: 0
+  statsOfItem:
+  - type: 0
+    value: 20
+  - type: 1
+    value: 12
+  - type: 2
+    value: 10

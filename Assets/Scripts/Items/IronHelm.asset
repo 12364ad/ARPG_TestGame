@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3aeb1fae3dfbcd145b1edd29c602a99a, type: 3}
+  m_Name: IronHelm
+  m_EditorClassIdentifier: 
+  id: IronHelm
+  displayName: "\u94C1\u5934\u76D4"
+  description: "\u5E78\u597D\u4E0D\u662F\u7EFF\u7684"
+  icon: {fileID: 543509892, guid: 3de023aaaed503141890b221c519c35e, type: 3}
+  propPrefab: {fileID: 7395698836159337134, guid: e981eb4a02f54a47bf4ceaac029ad02a, type: 3}
+  type: 3
+  buyPrice: 12
+  sellPrice: 5
+  dismantlePrice: 2
+  canStack: 0
+  maxStackAmount: 0
+  statsOfItem:
+  - type: 5
+    value: 5
+  raity: 0

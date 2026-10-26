@@ -1,0 +1,14 @@
+{ "columns":13,
+ "image":"..\/Rocks.png",
+ "imageheight":304,
+ "imagewidth":208,
+ "margin":0,
+ "name":"Rocks",
+ "spacing":0,
+ "tilecount":247,
+ "tiledversion":"1.12.2",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.10"
+}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 646f003efbae02546ac43cb244da24ff, type: 3}
+  m_Name: Quest_CunfuGrave
+  m_EditorClassIdentifier: 
+  questName: "\u96EA\u539F\u7684\u5893\u7891"
+  questDescription: "\u524D\u5F80\u96EA\u539F\u7684\u5893\u56ED\uFF0C\u770B\u770B\u5893\u7891\u4E0A\u6709\u6CA1\u6709\u201C\u963F\u5F3A\u201D\u8FD9\u4E2A\u540D\u5B57\uFF0C\u7136\u540E\u56DE\u6751\u544A\u8BC9\u6751\u5987\u3002"
+  requiredItems: []
+  requiredLocations:
+  - {fileID: 11400000, guid: 2e6a9c3f7b1d45809c3e6a9b2d5f7c81, type: 2}
+  rewards:
+  - item: {fileID: 11400000, guid: 8d9582e93166f3043ba809eaac68094e, type: 2}
+    amount: 20
+  - item: {fileID: 11400000, guid: e58e0b4d3de0cb84f8e7d42cbd72cbbd, type: 2}
+    amount: 1

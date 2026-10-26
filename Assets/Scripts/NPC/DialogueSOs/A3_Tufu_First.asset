@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f95105fc5c53dd4bbbf618bf704e3ab, type: 3}
+  m_Name: A3_Tufu_First
+  m_EditorClassIdentifier: 
+  lines:
+  - speaker: {fileID: 11400000, guid: 408569c14d31c9d448f2ce6afd4d90c9, type: 2}
+    text: "\u54FC\uFF0C\u53C8\u4E00\u4E2A\u60F3\u5F53\u82F1\u96C4\u7684\u3002\u5730\u7262\u91CC\u90A3\u53EA\u91CD\u7532\u9A91\u58EB\u6321\u4E86\u6211\u8FD0\u8089\u7684\u8DEF\u3002\u4F60\u53BB\u628A\u5B83\u89E3\u51B3\u4E86\uFF0C\u518D\u6361\u70B9\u77FF\u6E23\u56DE\u6765\uFF0C\u6211\u62FF\u6765\u505A\u78E8\u5200\u77F3\u3002"
+  - speaker: {fileID: 11400000, guid: de57de16662efaa4b812124679233e38, type: 2}
+    text: "\u77FF\u6E23\uFF1F"
+  - speaker: {fileID: 11400000, guid: 408569c14d31c9d448f2ce6afd4d90c9, type: 2}
+    text: "\u91CD\u7532\u9A91\u58EB\u8EAB\u4E0A\u968F\u673A\u6389\u7684\u3002\u522B\u95EE\u90A3\u4E48\u591A\uFF0C\u53BB\u5C31\u662F\u4E86\u3002"
+  options: []
+  requiredNPCs: []
+  requiredItems: []
+  requiredLocations: []
+  requiredQuests:
+  - {fileID: 11400000, guid: 5b9d2f7a1c4e4806b3d9e7a1c5f2b843, type: 2}
+  questToStart: {fileID: 11400000, guid: 7c2e5a9b3d6f4801e5a2c9b4d7f1e365, type: 2}

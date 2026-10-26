@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 8d84e4bae5575b44fb414d06c7589ba7
+  - enabled: 1
+    path: Assets/Scenes/village.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Forest.unity
+    guid: 06f246b5a9e1e7b4e992daad68d23942
+  - enabled: 1
+    path: Assets/Scenes/Snowfield.unity
+    guid: 2ba82efab7e91f94ab84916702a6b7b5
+  - enabled: 1
+    path: Assets/Scenes/Dungeon.unity
+    guid: e24af8291c54ad04892fb7010381187b
+  m_configObjects: {}

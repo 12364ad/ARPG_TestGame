@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3aeb1fae3dfbcd145b1edd29c602a99a, type: 3}
+  m_Name: AuthorCheatArmor
+  m_EditorClassIdentifier: 
+  id: AuthorCheatArmor
+  displayName: "\u4F5C\u8005\u4F5C\u5F0A\u62A4\u7532"
+  description: "\u4F5C\u8005\u4E13\u5C5E\u4F5C\u5F0A\u62A4\u7532\uFF0C\u8089\u5230\u79BB\u8C31"
+  icon: {fileID: 1105536123, guid: 94b981b4573187643861d535f02ac6e3, type: 3}
+  propPrefab: {fileID: 0}
+  type: 1
+  buyPrice: 999
+  sellPrice: 499
+  dismantlePrice: 0
+  canStack: 0
+  maxStackAmount: 0
+  statsOfItem:
+  - type: 0
+    value: 250
+  - type: 1
+    value: 50
+  raity: 3

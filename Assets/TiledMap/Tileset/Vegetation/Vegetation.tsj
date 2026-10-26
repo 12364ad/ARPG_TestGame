@@ -1,0 +1,14 @@
+{ "columns":25,
+ "image":"..\/Vegetation.png",
+ "imageheight":432,
+ "imagewidth":400,
+ "margin":0,
+ "name":"Vegetation",
+ "spacing":0,
+ "tilecount":675,
+ "tiledversion":"1.12.2",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.10"
+}

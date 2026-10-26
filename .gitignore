@@ -1,0 +1,51 @@
+# ===== Unity 自动生成 / 可重建 =====
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+ExportedObj/
+BuildPlayerData/
+BuildShaderCache/
+AssetImportWorker0/
+*.[Aa]pk
+*.[Aa]ab
+*.[Uu]nitypackage
+*.whl
+
+# ===== IDE 工程文件（每次打开 Unity 会自动重建）=====
+.vs/
+.vsconfig
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ===== Rider =====
+.idea/
+*.sln.docstates
+
+# ===== OS 垃圾文件 =====
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+*.lnk
+
+# ===== Unity 场景备份 =====
+*.unity.bak
+*.unity.bak.meta

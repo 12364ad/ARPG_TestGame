@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f95105fc5c53dd4bbbf618bf704e3ab, type: 3}
+  m_Name: A1_Kanbanniang_First
+  m_EditorClassIdentifier: 
+  lines:
+  - speaker: {fileID: 11400000, guid: e300c712cc68afb4da545da4f5df08ef, type: 2}
+    text: "\u54DF\uFF0C\u65B0\u9762\u5B54\u3002\u60F3\u79BB\u6751\u5F53\u82F1\u96C4\uFF1F\u5148\u522B\u6025\u7740\u505A\u68A6\u3002\u68EE\u6797\u91CC\u85E4\u8513\u602A\u6700\u8FD1\u56A3\u5F20\u5F97\u5F88\uFF0C\u53BB\u6E05\u7406\u4E24\u53EA\uFF0C\u518D\u5E26\u4E00\u9897\u201C\u85E4\u8513\u4E4B\u5FC3\u201D\u56DE\u6765\u3002\u7B97\u4F60\u7684\u79BB\u6751\u8BD5\u70BC\u3002"
+  - speaker: {fileID: 11400000, guid: de57de16662efaa4b812124679233e38, type: 2}
+    text: "\u85E4\u8513\u4E4B\u5FC3\uFF1F"
+  - speaker: {fileID: 11400000, guid: e300c712cc68afb4da545da4f5df08ef, type: 2}
+    text: "\u85E4\u8513\u602A\u8EAB\u4E0A\u968F\u673A\u6389\u7684\uFF0C\u8FD0\u6C14\u597D\u4E00\u6B21\u5C31\u51FA\u3002\u53BB\u5427\uFF0C\u522B\u6B7B\u5728\u5916\u9762\u3002"
+  options: []
+  requiredNPCs: []
+  requiredItems: []
+  requiredLocations: []
+  questToStart: {fileID: 11400000, guid: 3e7a9c1d5b2f4806a9c1e4b7d2f5a860, type: 2}

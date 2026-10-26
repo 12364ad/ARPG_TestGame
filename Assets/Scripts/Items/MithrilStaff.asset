@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3aeb1fae3dfbcd145b1edd29c602a99a, type: 3}
+  m_Name: MithrilStaff
+  m_EditorClassIdentifier: 
+  id: MithrilStaff
+  displayName: "\u79D8\u94F6\u6CD5\u6756"
+  description: "\u95EA\u7740\u5FAE\u5149\u7684\u79D8\u94F6\u6756"
+  icon: {fileID: -1651697370, guid: 94b981b4573187643861d535f02ac6e3, type: 3}
+  propPrefab: {fileID: 7395698836159337134, guid: e12d5fea55f44835a6f531e3bac42abb, type: 3}
+  type: 9
+  buyPrice: 45
+  sellPrice: 20
+  dismantlePrice: 9
+  canStack: 0
+  maxStackAmount: 0
+  statsOfItem:
+  - type: 2
+    value: 25
+  - type: 3
+    value: 8
+  raity: 1
